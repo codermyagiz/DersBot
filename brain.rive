@@ -31,7 +31,7 @@
     return parseInt(a) - parseInt(b);
 < object
 
-+ # ile # çarp
++ # ile # çıkar
 - <star1> - <star2> = <call>cıkarma <star1> <star2></call>
 
 +yardım
