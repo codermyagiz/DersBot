@@ -10,8 +10,8 @@
    console.log(<star1> + <star2>)
 < object 
 
-+ toplama
-- <call>hello</call>
++ toplama # + #
+- <call># + #</call>
 
 
 +yardım
