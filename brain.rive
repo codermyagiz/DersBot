@@ -34,6 +34,15 @@
 + # ile # çıkar
 - <star1> - <star2> = <call>cıkarma <star1> <star2></call>
 
+> object bolme javascript
+    var a = args[0];
+    var b = args[1];
+    return parseInt(a) / parseInt(b);
+< object
+
++ # ile # böl
+- <star1> / <star2> = <call>bolme <star1> <star2></call>
+
 +yardım
 - <a href="yagizyasak.me">Bu linke tıklayarak ayrıntılı bilgiye ulaşabilirsiniz.</a>
 
