@@ -6,12 +6,11 @@
 + *
 - Bu konu hakkında bilgi sahibi değilim. Yazılımcı ile iletişime geçin: yagiz.ysk@hotmail.com
 
-> object hello python
-   a = print("sa")
-   return a
+> object # + # javascript
+   console.log(<star1> + <star2>)
 < object 
 
-+ hello world
++ # + #
 - <call>hello</call>
 
 
