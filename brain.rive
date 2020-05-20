@@ -22,7 +22,7 @@
     return parseInt(c) + parseInt(d);
 < object
 
-+ # ile # topla
++ # ile # çarp
 - <star3> + <star4> = <call>carp <star3> <star4></call>
 
 +yardım
