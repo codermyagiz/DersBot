@@ -19,7 +19,7 @@
 > object carp javascript
     var a = args[0];
     var b = args[1];
-    return parseInt(a) + parseInt(b);
+    return parseInt(a) * parseInt(b);
 < object
 
 + # ile # çarp
