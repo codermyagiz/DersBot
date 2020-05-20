@@ -6,12 +6,12 @@
 + *
 - Bu konu hakkında bilgi sahibi değilim. Yazılımcı ile iletişime geçin: yagiz.ysk@hotmail.com
 
-> object # + # javascript
+> object a javascript
    console.log(<star1> + <star2>)
 < object 
 
 + toplama # + #
-- <call># + #</call>
+- <call>a</call>
 
 
 +yardım
