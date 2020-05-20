@@ -7,8 +7,8 @@
 - Bu konu hakkında bilgi sahibi değilim. Yazılımcı ile iletişime geçin: yagiz.ysk@hotmail.com
 
 > object hello python
-   print("sa")
-   return
+   a = print("sa")
+   return a
 < object 
 
 + hello world
