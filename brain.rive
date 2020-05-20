@@ -13,16 +13,8 @@
     return parseInt(a) + parseInt(b);
 < object
 
-> object carpma javascript
-	var c = args[0];
-	var d = args[1];
-	return parseInt(c) + parseInt(d);
-< object
 + # ile # topla
 - <star1> + <star2> = <call>toplama <star1> <star2></call>
-
-+ # ile # çarp
-- <star3> + <star4> = <call>carpma <star3> <star4></call>
 
 +yardım
 - <a href="yagizyasak.me">Bu linke tıklayarak ayrıntılı bilgiye ulaşabilirsiniz.</a>
