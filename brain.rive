@@ -6,8 +6,9 @@
 + *
 - Bu konu hakkında bilgi sahibi değilim. Yazılımcı ile iletişime geçin: yagiz.ysk@hotmail.com
 
-> object hello javascript
-   console.log("give me result")
+> object hello python
+   print("sa")
+   return
 < object 
 
 + hello world
