@@ -23,7 +23,7 @@
 < object
 
 + # ile # çarp
-- <star1> + <star2> = <call>carp <star1> <star2></call>
+- <star1> * <star2> = <call>carp <star1> <star2></call>
 
 +yardım
 - <a href="yagizyasak.me">Bu linke tıklayarak ayrıntılı bilgiye ulaşabilirsiniz.</a>
