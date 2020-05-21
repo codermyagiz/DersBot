@@ -37,6 +37,10 @@
 > object bolme javascript
     var a = args[0];
     var b = args[1];
+
+    if (b==0){
+    	alert("Lütfen 0'a bölmeyiniz.");
+    }
     return parseInt(a) / parseInt(b);
 < object
 
@@ -561,3 +565,6 @@
 
 + test2
 -test2
+
++ test3
+- cevap3
