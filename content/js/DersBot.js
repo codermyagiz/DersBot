@@ -3,6 +3,7 @@ function setup() {
 
   let bot = new RiveScript({utf8: true});
   bot.unicodePunctuation = new RegExp(/[.,!?;:]/g);
+  //unused code
   // bot.loadFile('brain.rive', brainReady, brainError);
   // //bot.sortReplies();
   bot.loadFile("brain.rive", function() {
@@ -14,12 +15,12 @@ function setup() {
 
   let username = "local-user";
   
-  //
+  //unused code
   // function brainReady() {
   //   console.log('Chatbot ready!');
-  //
+  //unused code
   // }
-  //
+  //unused code
   // function brainError() {
   //   console.log('Chatbot error!');
   // }

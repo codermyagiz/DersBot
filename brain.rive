@@ -1,7 +1,8 @@
 // Chatbot's brain
-! version = 2.0
+//dersbot.yagizyasak.me
+//dersbot.netlify.app
 
-! sub ? = nedir
+! version = 2.0
 
 + *
 - Bu konu hakkında bilgi sahibi değilim. Yazılımcı ile iletişime geçin: yagiz.ysk@hotmail.com
@@ -50,16 +51,16 @@
 +yardım
 - <a href="yagizyasak.me">Bu linke tıklayarak ayrıntılı bilgiye ulaşabilirsiniz.</a>
 
-+ merhaba*
--Merhaba.
+//Alternatives and Optionals example
++ [*] (merhaba|selam|selamlar|hi|naber|hello) [*]
+- Merhaba :).
 
-+merhaba *
--Merhaba.
+//Alternatives and Optionals
++ [*] (naber|nasılsın|nasıl gidiyor|iyi misin) [*]
+- İyiyim, teşekkür ederim :).
 
-+merhaba
--Merhaba.
-
-+ koful *
+//Alternatives and Optionals
++ [*](koful|koful'un görevi|kofulun görevi|kofulun|koful'un)[*]
 -Kofulun görevi hücre için fazla olan maddeleri depo etmektir.Daha çok bitki hücrelerinde ve bir hücreli canlılarda bulunur.Hayvan hücrelerindekiler küçük, bitki hücrelerindekiler ise büyüktür.
 
 + lizozom *
