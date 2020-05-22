@@ -26,7 +26,7 @@
 + # ile # çarp
 - <star1> * <star2> = <call>carp <star1> <star2></call>
 
-> object cıkarma javascript
+> object cikarma javascript
     var a = args[0];
     var b = args[1];
     return parseInt(a) - parseInt(b);
@@ -100,7 +100,7 @@
 + [*] (gezegenlerin dışa|dışa doğru|gezegen sıralaması|gezegen sıralama) [*]
 -Merkür - Venüs - Dünya - Mars - Jüpiter - Satürn - Üranüs - Neptün
 
-+ [*](Mars güneş sisteminin|Mars kaçıncı gezegen)[*]
++ [*](mars güneş sisteminin|mars kaçıncı gezegen)[*]
 -4.gezegenidir
 
 + [*](merkür güneş sisteminin|merkür kaçıncı gezegen)[*]
@@ -119,7 +119,7 @@
 -6.gezegenidir
 
 + [*] (üranüs güneş sisteminin|üranüs kaçıncı gezegen) [*]
-+7.gezegenidir
+-7.gezegenidir
 
 + [*](neptün güneş sisteminin|neptün kaçıncı gezegen)[*]
 -8.gezegenidir
@@ -190,7 +190,7 @@
 + [*](neptünün kaç tane uydusu|neptün'ün uydu sayısı|neptün'ün kaç tane uydusu|neptünün uydu sayısı)[*]
 -Neptün'ün 14 tane uydusu vardır.
 
-+ [*](neptün'ün ortalama sıcaklığı|neptünün sıcaklığı|neptünün ortalama sıcaklığı|Neptün'ün sıcaklığı)[*]
++ [*](neptün'ün ortalama sıcaklığı|neptünün sıcaklığı|neptünün ortalama sıcaklığı|neptün'ün sıcaklığı)[*]
 -Neptün'ün ortalama sıcaklığı -218 ºC'dir.
 
 + [*](en soğuk gezegen)[*]
@@ -249,7 +249,7 @@
 + [*](potansiyel enerji nedir)[*]
 -Cisimlerin, içlerinde saklı olan enerji çeşididir. İki çeşittir. Bunlardan ilki Çekim Potansiyonel Enerji ikinicisi ise Esneklik Potansiyel Enerji'dir.
 
-+ [*](çekim Potansiyel enerji nedir)[*]
++ [*](çekim potansiyel enerji nedir)[*]
 -Cismin konumundan kaynaklanan enerjidir. Cismin ağırlığı ve yerden yüksekliğine bağlıdır. Yerden yüksekliği ve ağırlığı arttıkça çekim potansiyel enerjileri de artar.
 
 + atom nedir
@@ -303,7 +303,7 @@
 ^2. Atomlar içi dolu berk kürelerdir. \n
 ^3. Bütün maddelerin farklı cins atomlardan oluşmuştur.
 
-+ [*](thomson kimdir|thomson|J. J." Thomson)[*]
++ [*](thomson kimdir|thomson|j j thomson)[*]
 -Sir Joseph John "J. J." Thomson, Britanyalı fizikçi. Elektronları, izotop kavramını keşfetmesi ve kütle spektrometresini icat etmesiyle bilinir. Pozitif ve negatif yüklerin bulunması ile atom modelinin güncellenmesi gerekti. Thomson atomu üzümlü keke benzettiği modelle açıkladı. \n
 ^Joseph John Thomson'un Atom Hakkındaki Görüşü: \n
 ^1.Eksi yükler (elektronlar) üzüme, kekin kendisi pozitif yüke (protona) benzetmiştir. \n
@@ -358,7 +358,7 @@
 ^6 - Farklı elementlerin atomları da farklıdır. \n
 ^7 - Homojendir.
 
-+ [*](bileşik özellikleri|bileşiğin özellikleri|Bileşik özellik)[*]
++ [*](bileşik özellikleri|bileşiğin özellikleri|bileşik özellik)[*]
 -1 - Elementlerin belirli oranlarda birleşmesi ile oluşur. \n
 ^2 - Kimyasal yollarla elementlere ayrılabilir. \n
 ^3 - Kendini oluşturan elementlerin özelliklerini göstermezler. \n
@@ -373,8 +373,6 @@
 -İki ya da daha fazla atomun bir araya gelerek oluşturduğu atom kümelerine molekül denir. \n
 ^Moleküller aynı veya farklı cins atomlardan oluşabilir. Molekül içerisindeki atomlar arasında kovalent bağ vardır.
 
-+ [](karışım nedir)[*]
--İki farklı maddenin kendi özelliklerini kaybetmeden bir arada bulunması ile karışımlar oluşur.
 
 + [*](karışımların özellikleri|karışımın özellikleri|karışım özellik)[*]
 -1. Birden fazla maddenin karışması ile oluşur.
@@ -396,6 +394,9 @@
 -Karışımı oluşturan maddeler her tarafa eşit olarak dağılmaz. \n
 ^Heterojen karışımlara adi karışım da denir. \n
 ^Yağ-su, ayran, çamur, kum-su heterojen karışımdır.
+
++ [*](karışım nedir)[*]
+-İki farklı maddenin kendi özelliklerini kaybetmeden bir arada bulunması ile karışımlar oluşur.
 
 + [*](damıtma)[*]
 -Birbiri ile karışmış olan sıvıların ayrılmasında kullanılan bir yöntemdir. \n
