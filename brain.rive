@@ -38,15 +38,26 @@
 > object bolme javascript
     var a = args[0];
     var b = args[1];
-
+    var c = "Lütfen 0'a bölmeyiniz!"
     if (b==0){
     	alert("Lütfen 0'a bölmeyiniz.");
+    	return c
     }
     return parseInt(a) / parseInt(b);
 < object
 
 + # ile # böl
 - <star1> / <star2> = <call>bolme <star1> <star2></call>
+
+> object testing javascript
+	var w = screen.width;
+	var h = screen.height;
+	var dim = w + "x" + h;
+	return dim;
+< object
+
++ test javascript
+- Testing javascript... <call>testing</call>.
 
 +yardım
 - <a href="yagizyasak.me">Bu linke tıklayarak ayrıntılı bilgiye ulaşabilirsiniz.</a>
