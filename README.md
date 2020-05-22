@@ -7,4 +7,4 @@
  - [x] Bazı sorular düzeltildi.
  - [ ] Hesap makinesi için alternatif sorular oluşturulacak. 
  - [ ] Yeni tasarıma geçilecek. (Bugün)
- - [ ] Sorularda ders.txt'den 529. kısımdan devam edilecek.
+ - [ ] Sorularda ders.txt'den 529. satırdan devam edilecek.
