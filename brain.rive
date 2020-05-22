@@ -49,16 +49,6 @@
 + # ile # böl
 - <star1> / <star2> = <call>bolme <star1> <star2></call>
 
-> object testing javascript
-	var w = screen.width;
-	var h = screen.height;
-	var dim = w + "x" + h;
-	return dim;
-< object
-
-+ test javascript
-- Testing javascript... <call>testing</call>.
-
 +yardım
 - <a href="yagizyasak.me">Bu linke tıklayarak ayrıntılı bilgiye ulaşabilirsiniz.</a>
 
@@ -71,73 +61,73 @@
 - İyiyim, teşekkür ederim :).
 
 //Alternatives and Optionals
-+ [*](koful|koful'un görevi|kofulun görevi|kofulun|koful'un)[*]
++ [*] (koful|koful'un görevi|kofulun görevi|kofulun|koful'un) [*]
 -Kofulun görevi hücre için fazla olan maddeleri depo etmektir.Daha çok bitki hücrelerinde ve bir hücreli canlılarda bulunur.Hayvan hücrelerindekiler küçük, bitki hücrelerindekiler ise büyüktür.
 
-+ lizozom *
++ [*] (lizozom|lizozom'un görevi|lizozom görevi|lizozomun|lizozom'un) [*]
 -Hücreyi dış etkilerden korur.Yaşlanmış olan enzimlerin molekül ve organellerin parçalanmasını sağlar.Spermin uç kısmında bulunur ve yumurtanın delinmesine olanak sağlar.
 
-+ ribozom *
++ [*] (ribozom|ribozom'un görevi|ribozomun görevi|ribozomun|ribozom'un) [*]
 -Ribozomlar protein sentezi yapan organellerdir.
 
-+ golgi cisimciği *
++ [*] (golgi|golgi'nin görevi|golginin görevi|golginin|golgi'nin) [*]
 -Golgi aygıtının görevi salgı üretilmesinde ve depo edilmesini sağlamaktır.
 
-+ hücre zarı *
++ [*] (hücre zarı|hücre zarı'nın görevi|hücre zarının görevi|hücre zarının|hücre zarı'nın) [*]
 -Hücreyi çepe çevre sararak şekil kazandırır. Canlı, esnek ve saydamdır. Hücre sitoplazmasının dağılmasını önler. Hücre sitoplazmasının dağılmasını önler. Hücre sitoplazmasının dağılmasını önler. Hücre sitoplazmasının dağılmasını önler. Hücre sitoplazmasının dağılmasını önler.Seçici geçirgendir.Kendisine gerekli olan maddelerin (besin ve oksijen) girişine, atık maddelerin (karbondioksit vb.) atılmasına izin verir. Hem hayvan hem de bitki hücresinde bulunur.
 
 + ömer
 -osman
 
-+ hücre duvarı *
++ [*] (hücre duvarı|hücre duvarı'nın görevi|hücre duvarı görevi|hücre duvarının|hücre duvarı'nın) [*]
 -Hücre duvarı yalnız bitki hücrelerinde bulunur; hayvan hücrelerinde bulunmaz. Hücre zarını çevreleyen cansız bir yapıdır. Yapısında selüloz bulunur. Görevi: Hücreye dayanıklılık sağlamak, hücreyi dış etkilere karşı korumak ve hücrenin sınırını korumaktır
 
-+ çekirdek *
++ [*] (çekirden|çekirdek'in görevi|hücre duvarının görevi|çekirdeğin|çekirdek'in) [*]
 -Çekirdek, hücrenin beyni gibi düşünülebilir. Çekirdek hücrenin büyüme, gelişme, bölünme, onarım ve denetim merkezidir. Çekirdek içerisinde canlının kalıtsal özelliklerini taşıyan ve kromozom adı verilen yapılar bulunur. Çekirdekteki kalıtsal bilgiler hücre bölünmesi ile yeni hücrelere aktarılır. Çekirdeği çıkarılan hücre yaşayamaz, bir süre sonra ölür.
 
-+ sitoplazma *
++ [*](sitoplazma|sitoplazma'nın görevi|sitoplazma görevi|sitoplazmanın|sitoplazma'nın)[*]
 -Sitoplazma hücre zarı ile çekirdek arasını dolduran, içinde yaşamsal olayların gerçekleştiği yumurta akı kıvamında ve yarı saydam bir sıvıdır. Sitoplazmanın ağırlığının yüzde 80 – 95 ini su oluşturur. Canlı, renksiz ve yarı geçirgen yapıya sahiptir.
 
-+ direncin formülü *
++ [*](direnç|direnç formülü)[*]
 -R = V/I
 
-+ akımın formülü *
++ [*](akım|akım formülü|akımın formülü)[*]
 -I = V/R
 
-+ gerilimin formülü *
++ [*](gerilim|gerilim formülü|gerilimin formülü)[*]
 -V = I.R
 
-+ gezegenlerin güneşten dışa*
++ [*] (gezegenlerin dışa|dışa doğru|gezegen sıralaması|gezegen sıralama) [*]
 -Merkür - Venüs - Dünya - Mars - Jüpiter - Satürn - Üranüs - Neptün
 
-+ mars güneş sisteminin *
++ [*](Mars güneş sisteminin|Mars kaçıncı gezegen)[*]
 -4.gezegenidir
 
-+ merkür güneş sisteminin *
++ [*](merkür güneş sisteminin|merkür kaçıncı gezegen)[*]
 -1.gezegenidir
 
-+ venüs güneş sisteminin *
++ [*](venüs güneş sisteminin|venüs kaçıncı gezegen)[*]
 -2.gezegenidir
 
-+ dünya güneş sisteminin *
++ [*](dünya güneş sisteminin|dünya kaçıncı gezegen)[*]
 -3.gezegenidir
 
-+ jüpiter güneş sisteminin *
++ [*](jüpiter güneş sisteminin|jüpiter kaçıncı gezegen)[*]
 -5.gezegenidir
 
-+ satürn güneş sisteminin *
++ [*](satürn güneş sisteminin|satürn kaçıncı gezegen)[*]
 -6.gezegenidir
 
-+ üranüs güneş sisteminin *
++ [*] (üranüs güneş sisteminin|üranüs kaçıncı gezegen) [*]
 +7.gezegenidir
 
-+ neptün güneş sisteminin *
++ [*](neptün güneş sisteminin|neptün kaçıncı gezegen)[*]
 -8.gezegenidir
 
 + pluton gezegen *
 -Çünkü pluton cüce gezegendir
 
-+ venüsün güneşe *
++ [*](venüsün uzaklığı|venüs'ün güneşe uzaklığı|venüsün güneşe uzaklığı|venüs'ün uzaklığı)[*]
 -Venüs'ün güneşe ortalama uzaklığı 108 milyon km'dir.
 
 + venüs kendi etrafında *
@@ -149,335 +139,205 @@
 + venüs güneş etrafında *
 -224 günde tamamlar
 
-+ dünyanın güneşe *
++ [*](dünyanın uzaklığı|dünya'nın güneşe uzaklığı|dünyanın güneşe uzaklığı|dünya'nın uzaklığı)[*]
 -Dünya'nın güneşe ortalama uzaklığı 149,6 km'dir.
 
-+ dünyanın kaç tane uydusu *
++ [*](dünyanın kaç tane uydusu|dünya'nın uydu sayısı|dünya'nın kaç tane uydusu|dünyanın uydu sayısı)[*]
 -1 tane uydusu vardır o da Ay'dır.
 
-+ merkürün kaç tane uydusu *
++ [*](merkürün kaç tane uydusu|merkür'ün uydu sayısı|merkür'ün kaç tane uydusu|merkürün uydu sayısı)[*]
 -Hiç uydusu bulunmamaktadır.
 
-+ güneş sisteminin en hızlı gezegeni *
++ [*](en hızlı gezegen)[*]
 -Güneş Sisteminin en hızlı gezegeni Merkür'dür, yörüngesi etrafında ki hareketini 116 günde tamamlar.
 
-+ en hızlı gezegen
--Güneş Sisteminin en hızlı gezegeni Merkür'dür, yörüngesi etrafında ki hareketini 116 günde tamamlar.
-
-+ en sıcak gezegen
++ en sıcak gezegen [*](sıcak gezegen)[*]
 -Güneş Sisteminin en sıcak gezegeni Venüs'tür.
 
-+ güneş sisteminin en sıcak *
--Güneş Sisteminin en sıcak gezegeni Venüs'tür.
-
-+ dünya güneş etrafında ne kadar 
++ dünya güneş etrafında ne kadar *
 - Dünya Güneş etrafında dönüşünü 365 gün 5 saat 48 dk. ve 46 sn. de tamamlamaktadır
 
-+ mars neden *
++ [*](mars neden)[*]
 -Üzerinde ki demir ve oksitten dolayı kızılımsı bir renk almıştır. Bu yüzden kızıl gezegen de denilmektedir.
 
-+ marsın kaç tane uydusu *
++ [*](marsın kaç tane uydusu|mars'nın uydu sayısı|mars'ın kaç tane uydusu|marsın uydu sayısı)[*]
 -Mars'ın 2 adet uydusu bulunmaktadır Phobos ve Demios'dur.
 
-+ en büyük gezegen *
++ [*](en büyük gezegen)[*]
 -Jüpiter çap ve kütle bakımından en büyük gezegendir.
 
-+ jüpiterin ortalama sıcaklığı *
++ [*](jüpiter'in ortalama sıcaklığı|jüpiterin sıcaklığı|jüpiterin ortalama sıcaklığı|jüpiter'in sıcaklığı)[*]
 -Jüpiter'in ortalama sıcaklığı -148 ºC'dir.
 
 + jüpiter güneş etrafında *
 -Jüpiter Güneş etrafında dönüşünü 12 yılda tamamlar.
 
-+ jüpiterin kaç uydusu *
++ [*](jüpiterin kaç tane uydusu|jüpiter'in uydu sayısı|jüpiter'in kaç tane uydusu|jüpiterin uydu sayısı)[*]
 -Jüpiterin 63 uydusu bulunmaktadır.
 
-+ satürnün kaç uydusu *
--Satürn'ün irili ufaklı 30'dan fazla uydusu vardır.
-
-+ satürnün kaç tane uydusu *
++ [*](satürnün kaç tane uydusu|satürn'ün uydu sayısı|satürn'ün kaç tane uydusu|satürnün uydu sayısı)[*]
 -Satürn'ün irili ufaklı 30'dan fazla uydusu vardır.
 
 + google *{weight=10}
 - Google'da Arandı: <a href="http://google.com/search?q=<star>">Gitmek için buraya tıkla.</a>
 
-+ üranüsün ortalama sıcaklığı *
++ [*](üranüs'ün ortalama sıcaklığı|üranüsün sıcaklığı|üranüsün ortalama sıcaklığı|üranüs'ün sıcaklığı)[*]
 - Üranüs'ün ortalama sıcaklığı -214 ºC'dir.
 
-+ üranüs'ün ortalama sıcaklığı *
-@ üranüsün ortalama sıcaklığı *
-
-+ üranüs'ün ortalama sıcaklığı
-@ üranüsün ortalama sıcaklığı *
-
-+ üranüsün ortalama sıcaklığı
-@ üranüsün ortalama sıcaklığı *
-
-+ üranüsün kaç tane *
++ [*](üranüsün kaç tane uydusu|üranüs'ün uydu sayısı|üranüs'ün kaç tane uydusu|üranüsün uydu sayısı)[*]
 - Üranüs'ün 27 tane uydusu vardır.
 
-+ üranüs'ün kaç tane *
-@ üranüsün kaç tane *
-
-+ neptünün kaç tane *
++ [*](neptünün kaç tane uydusu|neptün'ün uydu sayısı|neptün'ün kaç tane uydusu|neptünün uydu sayısı)[*]
 -Neptün'ün 14 tane uydusu vardır.
 
-+ neptün'ün kaç tane *
-@ neptünün kaç tane *
-
-+ neptünün ortalama sıcaklığı *
++ [*](neptün'ün ortalama sıcaklığı|neptünün sıcaklığı|neptünün ortalama sıcaklığı|Neptün'ün sıcaklığı)[*]
 -Neptün'ün ortalama sıcaklığı -218 ºC'dir.
 
-+ neptün'ün ortalama sıcaklığı *
-@ neptünün ortalama sıcaklığı *
-
-+ neptünün ortalama sıcaklığı
-@ neptünün ortalama sıcaklığı *
-
-+ neptünün ortalama sıcaklığı
-@ neptünün ortalama sıcaklığı *
-
-+ Güneş sistemindeki en *
++ [*](en soğuk gezegen)[*]
 -Neptün Güneş sisteminin en soğuk gezegenidir.
 
-+ Güneş sisteminin en *
--Neptün Güneş sisteminin en soğuk gezegenidir.
-
-+ ağırlık nedir
++ [*](ağrılık nedir)[*]
 - Bir cisme etki eden yerçekimi kuvvetine ağırlık denir.
 
-+ ağırlık
-@ ağırlık nedir
++ [*](ağırlık ölçüm aleti|ağırlık ne ile|ağırlık ölçüm cihazı)[*]
+- Ağırlık bir kuvvet olduğu için dinamometre ile ölçülür.
 
-+ ağırlık x *
-@ ağırlık nedir
-
-+ ağırlık ne ile ölçülür
--Ağırlık bir kuvvet olduğu için dinamometre ile ölçülür.
-
-+ ağırlık nasıl ölçülür
--Ağırlık bir kuvvet olduğu için dinamometre ile ölçülür.
-
-+ ağırlığın birimi *
++ [*](ağrılık birimi|ağrılığın birimi)[*]
 - Ağırlığın birimi Newton(N)'dur.
 
-+ ağrılık birimi
-- Ağırlığın birimi Newton(N)'dur.
-
-+ kütle nedir
++ [*](kütle nedir)[*]
 -Değişmeyen madde miktarına kütle denir. Her yerde aynıdır.
 
-+ kütle
-@ kütle nedir
-
-+ kütle ne ile ölçülür
++ [*](kuvvet ölçüm aleti|kuvvet ne ile|kuvvet ölçüm cihazı)[*]
 -Kütle eşit kollu terazi ile ölçülür.
 
-+ kütle nasıl ölçülür
--Kütle eşit kollu terazi ile ölçülür.
-
-+ kütlenin birimi *
++ [*](kütle birimi|kütlenin birimi)[*]
 -Kütlenin birimi Gram(G), Kilogram(kg), ton'dur.
 
-+ kütlenin birimi
--Kütlenin birimi Gram(G), Kilogram(kg), ton'dur.
-
-+ kütle çekim kuvveti *
++ [*](kütle çekim kuvveti)[*]
 -Dünya dışındaki gök cisimlerinin uyguladıkları bu çekim kuvvetine kütle çekim kuvveti denir. Büyük bir gezegeninin kütle çekim kuvveti de fazladır.
 
-+ kütle çekim kuvveti
-- Dünya dışındaki gök cisimlerinin uyguladıkları bu çekim kuvvetine kütle çekim kuvveti denir. Büyük bir gezegeninin kütle çekim kuvveti de fazladır.
-
-+ iş nedir
++ [*](iş nedir)[*]
 -Bir cisim uygulanan kuvvet yönde hareket ettirebiliyorsa iş yapılmış demektir. Günlük yaşamda kullanılan iş kavramı ile Fen Bilimlerinde kullanılan iş aynı değildir.
 
-+ iş
--Bir cisim uygulanan kuvvet yönde hareket ettirebiliyorsa iş yapılmış demektir. Günlük yaşamda kullanılan iş kavramı ile Fen Bilimlerinde kullanılan iş aynı değildir.
-
-+ iş nasıl *
++ [*](iş nasıl)[*]
 -1.Cisme kuvvet uygulanmalıdır. Dünya güneş etrafında hareket ederken kuvvet uygulanmadığı için iş yapmaz. \n
 ^2.Kuvvet cisme yol aldırmalıdır. Kuvvet uygulayarak bir cismi itsek, fakat hareket ettiremesek iş yapmış olmayız. \n
 ^3.Cismin hareket yönü ile uygulanan kuvvet aynı yönde olmalıdır. Elimize aldığımız çantayı ileri götürürken iş yapmayız. Kuvvetin yönü yukarı, cismin hareket yönü ise ileridir.
 
-+ işin formülü *
++ [*](iş formülü|işin fomülü|iş'in formülü')[*]
 - W = F.X yani İş eşittir Kuvvet çarpı alınan yol.
 
-+ işin formülü
-- W = F.X yani İş eşittir Kuvvet çarpı alınan yol.
-
-+ enerji nedir
++ [*](enerji nedir)[*]
 -İş yapabilme yeteneğine enerji denir
 
-+ enerji
--İş yapabilme yeteneğine enerji denir
-
-+ enerjinin birimi nedir
++ [*](enerji birimi|enerjinin birimi)[*]
 -Enerjinin birimi Joule(J)'dir.
 
-+ enerji birimi
-@ enerjinin birimi nedir
-
-+ mekanik enerjinin türleri *
++ [*](mekanik enerji türleri)[*]
 -Elektrik enerjisi, nükleer enerji, ısı enerjisi, ışık enerjisi, potansiyel enerji, kinetik enerji, rüzgar enerjisi, jeotermal enerji, kimyasal enerji, ses enerjisi, mekanik enerjinin türlerinden birkaçıdır.
 
-+ mekanik enerji türleri
-@ mekanik enerjinin türleri *
-
-+ mekanik enerji türleri *
-@ mekanik enerjinin türleri *
-
-+ fiziksel enerjinin türleri *
++ [*](fiziksel enerji türleri)[*]
 -Elektrik enerjisi, nükleer enerji, ısı enerjisi, ışık enerjisi, potansiyel enerji, kinetik enerji, rüzgar enerjisi, jeotermal enerji, kimyasal enerji, ses enerjisi, mekanik enerjinin türlerinden birkaçıdır.
 
-+ fiziksel enerji türleri
-@ fiziksel enerjinin türleri *
-
-+ fiziksel enerji türleri *
-@ fiziksel enerjinin türleri *
-
-+ kinetik enerji *
++ [*](kinetik enerji nedir)[*]
 -Hareketli cisimlerin sahip olduğu enerjidir. Kinetik enerji kütle ve süratle doğru orantılıdır. Aynı süratte otomobil ve kamyondan, kamyonun kinetik enerjisi daha fazladır. Bir aracın sürati arttıkça kinetik enerjisi de artar.
 
-+ kinetik enerji
-@ kinetik enerji *
-
-+ kinetik enerjinin formülü *
++ [*](kinetik enerjinin formülü|kinetik enerji fomülü)[*]
 -Kinetik Enerji eşittir sürat çarpı kütle yani K.E = V.M
 
-+ kinetik enerji formülü
-@ kinetik enerjinin formülü *
-
-+ potansiyonel enerji *
++ [*](potansiyel enerji nedir)[*]
 -Cisimlerin, içlerinde saklı olan enerji çeşididir. İki çeşittir. Bunlardan ilki Çekim Potansiyonel Enerji ikinicisi ise Esneklik Potansiyel Enerji'dir.
 
-+ potansiyel enerji
-@ potansiyonel enerji *
-
-+ çekim potansiyel enerjisi *
++ [*](çekim Potansiyel enerji nedir)[*]
 -Cismin konumundan kaynaklanan enerjidir. Cismin ağırlığı ve yerden yüksekliğine bağlıdır. Yerden yüksekliği ve ağırlığı arttıkça çekim potansiyel enerjileri de artar.
 
-+ çekim potansiyel enerji *
-@ çekim potansiyel enerjisi *
-
-+ çekim potansiyel enerji
-@ çekim potansiyel enerjisi *
-
-+ atom nedir
++ [](atom nedir)[*]
 -Maddenin yapı taşına atom denir.
 
-+ atom
--Maddenin yapı taşına atom denir.
-
-+ proton *
++ [*](proton nedir)[*]
 -Çekirdekte bulunur. Yükü + dır. "p" simgesi ile gösterilir. Çekirdekte yavaş hareket eder.
 
-+ proton
-@ proton *
-
-+ nötron *
++ [*](nötron nedir)[*]
 -Çekirdekte bulunur. Yüksüzdür (Nötr). Kütlesi protonun kütlesine eşittir. "n" simgesi ile gösterilir. Çekirdekte yavaş hareket eder.
 
-+ nötron
-@ nötron *
-
-+ elektron nedir
++ [*](elektron nedir)[*]
 -Çekirdek etrafında çok hızlı hareket eder. \n
 ^Katmanda bulunur. \n
 ^Yükü (-) dir.\n
 ^Kütlesi protonun 1/2000 kadardır.\n
 ^"e" simgesi ile gösterilir. \n
 
-+ elektron nedir?
-@ elektron nedir
-
-+ katman *
++ [*](katman nedir)[*]
 -Elektronların bulunduğu küresel yapıdaki yerlere katman denir.
 
-+ atom numarası *
++ [*](atom numarası nedir)[*]
 -Atomun sahip olduğu proton sayısı atom numarasıdır. \n
 ^Atom numarası atomun kimliğidir.
 
-+ atom numarası
-@ atom numarası *
-
-+ nötr atom nedir
++ [*](nötr atom nedir)[*]
 -Proton sayısı ve elektron sayısı eşit olan atomlar nötr atomdur.
 
-+ notr atom
-@ nötr atom nedir
-
-+ demokritos kimdir
++ [*](demokritos kimdir|demokritos)[*]
 -Yunanlı bir filozoftur. \n
 ^Maddenin taneciklerden oluştuğu fikrini ortaya attı.\n
 ^Bu taneciklere bölünemez anlamına gelen atomos adını verdi. \n
 ^Bu görüşü bilimsel olarak değil varsayım olarak söylemiştir.
 
-+ john dalton kimdir
++ [*](dalton kimdir|john dalton|dalton)[*]
 -John Dalton, İngiliz kimyager, meteorolog ve fizikçi. Modern Atom Teorisi ile ilgili öncü çalışmaları ve renk körlüğü üzerine araştırmalarıyla bilinir. \n
 ^Dalton'un Atom Hakkındaki Görüşü: \n
 ^1. Maddenin en küçük yapı birimi atomdur. \n
 ^2. Atomlar içi dolu berk kürelerdir. \n
 ^3. Bütün maddelerin farklı cins atomlardan oluşmuştur.
 
-+ dalton kimdir
-@ john dalton kimdir
-
-+ thomson kimdir
++ [*](thomson kimdir|thomson|J. J." Thomson)[*]
 -Sir Joseph John "J. J." Thomson, Britanyalı fizikçi. Elektronları, izotop kavramını keşfetmesi ve kütle spektrometresini icat etmesiyle bilinir. Pozitif ve negatif yüklerin bulunması ile atom modelinin güncellenmesi gerekti. Thomson atomu üzümlü keke benzettiği modelle açıkladı. \n
 ^Joseph John Thomson'un Atom Hakkındaki Görüşü: \n
 ^1.Eksi yükler (elektronlar) üzüme, kekin kendisi pozitif yüke (protona) benzetmiştir. \n
 ^2. Eksi yükler hareket etmemektedir. \n
 ^3. Atom parçalanabilir
 
-+ dalton kimdir
--Atom hakkında ilk bilimsel açıklamayı yaptı.\n
-^Dalton'un görüşü:\n
-^1. Maddenin en küçük yapı birimi atomdur. \n
-^2. Atomlar içi dolu berk kürelerdir. \n
-^3. Bütün maddelerin farklı cins atomlardan oluşmuştur. \n
-
-+ rutherford kimdir
++ [*](rutherford kimdir|rutherford)[*]
 -Atom Hakkındaki Görüşü: \n
 ^Pozitif yüklere proton adını vermiştir. Protonun bulunduğu yeri çekirdek demiştir. Çekirdek etrafında elektronların hareket halinde olduğunu keşfetti. Yaptığı model güneş sistemine benzetmiştir.
 
-+ niels bohr kimdir
++ [*](niels bohr kimdir|bohr)[*]
 -Bohr atom modeline göre elektronlar çekirdek etrafında rastgele dolanmamaktadır. Elektronlar çekirdeğin belirli uzaklıkdaki katmanlarda bulunmaktadır.
 
-+ modern atom teorisi *
++ [*](modern atom)[*]
 -Elektronlar çok hızlı hareket ettikleri için, elektronların yerini belirleyemeyiz. Elektronların bulunma ihtimalinin en fazla olduğu yerlere "Elektron Bulutu" denilmektedir.
 
-+ kararlı atom *
++ [*](kararlı atom)[*]
 -Atomlar kararlı yapıda bulunmak isterler. Kararlı yapıda olmaları için 1. katmanda 2, 2. ve 3. katmanda 8 elektron bulundurmalıdırlar.
 
-+ dublet kuralı *
++ [*](dublet kuralı)[*]
 -Atomların elektron dizilimini Helyuma benzetmesine denir.
 
-+ oklet kuralı *
++ [*](oklet kuralı)[*]
 -2 ve 3 katmanı bulunan elementlerin son katmanındaki elektron sayısını 8 e tamamlamasına oktet kuralı denir. \n
 ^Elektron dizilimini Neon ve Argona benzetmeleridir.
 
-+ iyon nedir
++ [*](iyon nedir)[*]
 - + veya - yüklü atom yada atom gruplarına iyon denir.
 
-+ anyon *
++ [*](anyon)[*]
 - Negatif (-) yüklü iyonlara Anyon denir. Anyon oluşabilmesi için atomun elektron alması gerekir. Anyonların elektron sayısı, proton sayısından fazladır.
 
-+ katyon *
++ [*](katyon)[*]
 -Pozitif (+) yüklü iyonlara Katyon denir. Katyon oluşabilmesi için atomun elektron vermesi gerekir. Katyonların elektron sayısı, proton sayısından azdır. \n
 ^Not: Katyonun artı yüklü olduğunu hatırlamak için Katyon kelimesinde t harfinden + olduğu anlarız.
 
-+ saf maddenin *
++ [*](saf madde|saf maddenin)[*]
 -1 - Aynı tür tanecikleri vardır. İçerisinde başka madde içermezler. \n
 ^2 - Homojendir.\n
 ^3 - Belirli bir erime ve kaynama noktaları vardır.\n
 ^4 - Özkütleleri sabittir.
 
-+ saf maddelerin *
-@ saf maddenin *
-
-+ element nedir
++ [*](element nedir)[*]
 - Kendinden daha basit maddeye dönüşmeyen ve aynı türdeki taneciklerden oluşan saf madde element denir.
 
-+ elementin özellikleri
++ [*](element özellikleri|elementlerin özellikleri|element özellik)[*]
 -1 - Saf maddelerdir \n
 ^2 - İçerisinde tek cins atom bulunur. \n
 ^3 - Fiziksel ve kimyasal yollarla başka maddelere ayrılamaz. \n
@@ -486,10 +346,7 @@
 ^6 - Farklı elementlerin atomları da farklıdır. \n
 ^7 - Homojendir.
 
-+ elementlerin *
-@ elementin özellikleri
-
-+ bileşiğin özellikleri *
++ [*](bileşik özellikleri|bileşiğin özellikleri|Bileşik özellik)[*]
 -1 - Elementlerin belirli oranlarda birleşmesi ile oluşur. \n
 ^2 - Kimyasal yollarla elementlere ayrılabilir. \n
 ^3 - Kendini oluşturan elementlerin özelliklerini göstermezler. \n
@@ -500,17 +357,14 @@
 ^8 - Bileşik oluşurken yeni kimyasal bağlar oluşur. \n
 ^9 - Bileşikler iyonik yapıda veya molekül yapıda olabilir.
 
-+ bileşiklerin özellikleri *
-@ bileşiğin özellikleri *
-
-+ molekül nedir
++ [*](molekül nedir)[*]
 -İki ya da daha fazla atomun bir araya gelerek oluşturduğu atom kümelerine molekül denir. \n
 ^Moleküller aynı veya farklı cins atomlardan oluşabilir. Molekül içerisindeki atomlar arasında kovalent bağ vardır.
 
-+ karışım nedir
++ [](karışım nedir)[*]
 -İki farklı maddenin kendi özelliklerini kaybetmeden bir arada bulunması ile karışımlar oluşur.
 
-+ karışımların özellikleri *
++ [*](karışımların özellikleri|karışımın özellikleri|karışım özellik)[*]
 -1. Birden fazla maddenin karışması ile oluşur.
 ^2. Karışımı oluşturanlar kendi özelliklerini kaybetmezler. Örnek: Tuzlu suda tuzun tadını algılarız.
 ^3. Maddeler her oranda karışabilir. Örnek: Bir bardak suya istediğimiz oranda şekerle karıştırabiliriz.
@@ -521,57 +375,27 @@
 ^8. Yoğunlukları sabit değildir.
 ^9. Homojen veya heterojen olabilir.
 
-+ karışımın özellikleri *
-@ karışımların özellikleri *
-
-+ karışımların özellikleri
-@ karışımların özellikleri *
-
-+ homojen karışım *
++ [*](homojen karışım)[*]
 -Karışımı oluşturan maddeler her tarafa eşit olarak dağılmıştır. \n
 ^Tuz-su, Şeker-su, alkol-su homojen karışımdır. \n
 ^Homojen karışımlara çözelti adı da verilmektedir.
 
-+ homojen karışım
-@ homojen karışım *
-
-+ homojen *
-@ homojen karışım *
-
-+ heterojen karışım *
++ [*](heterojen)[*]
 -Karışımı oluşturan maddeler her tarafa eşit olarak dağılmaz. \n
 ^Heterojen karışımlara adi karışım da denir. \n
 ^Yağ-su, ayran, çamur, kum-su heterojen karışımdır.
 
-+ heterojen karışım
-@ heterojen karışım *
-
-+ heterojen *
-@ heterojen karışım *
-
-+ Heterojen
-@ heterojen karışım *
-
-+ damıtma *
++ [*](damıtma)[*]
 -Birbiri ile karışmış olan sıvıların ayrılmasında kullanılan bir yöntemdir. \n
 ^Sıvıların kaynama noktaları farkı ile  birbirinden ayrılır. \n
 ^Kaynama noktası düşük olan sıvı önce kaynayarak sıvıdan ayrılacaktır. Başka bir kapta buhar yoğunlaştırılarak sıvılar birbirinden ayrılır.
 
-+ damıtma
-@ damıtma *
-
-+ ışığı hangi renkler soğurur
++ [*] (soğuran|renkler) [*]
 -Koyu ve siyah renkler ışığı soğurur.
 
-+ ışıgı soğuran renkler *
-@ ışığı hangi renkler soğurur
-
-+ ışığı yansıtan renkler *
++ [*](yansıtan)[*]
 -Açık ve beyaz renkler ışığı yansıtır.
 
-+ ışığı yansıtan renkler
--Açık ve beyaz renkler ışığı yansıtır.
- 
 + test
 - test
 
