@@ -20,9 +20,9 @@ body .chatHeader {
     background-color: #fff;
     position: relative;
     padding: 11px;
-    padding-left: 40px;
     box-shadow: 0 6px 34px -6px #e0e0e0a6;
     border-radius: 7px;
+    text-align: center;
 }
 
 body .chatHeader > .BackBtn {
@@ -60,7 +60,7 @@ body .chatHeader > .headerTitle > .Txt {
 }
 
 body .chatHeader > .headerTitle > .Txt > div {
-    font-size: 11px;
+    font-size: 20px;
     margin: 2px 0;
 }
 
@@ -113,7 +113,7 @@ body .chatSend > .sendText:-moz-placeholder {
 body .chatSend > #send-message {
     position: absolute;
     right: 0;
-    top: 2px;
+    top: 0px;
     z-index: 2;
     height: 48px;
     line-height: 48px;
