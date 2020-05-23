@@ -5,6 +5,6 @@
  - [ ] Bazı sorulara hata vermesi.
  - [x] Alternatif ve Opsiyonel kullanıldı.
  - [x] Bazı sorular düzeltildi.
- - [ ] Hesap makinesi için alternatif sorular oluşturulacak. 
+ - [x] Hesap makinesi için alternatif sorular oluşturulacak. 
  - [x] Yeni tasarıma geçilecek. (Bugün)
  - [ ] Sorularda ders.txt'den 529. satırdan devam edilecek.
