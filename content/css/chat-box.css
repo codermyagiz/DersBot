@@ -22,6 +22,7 @@ body .chatHeader {
     padding: 11px;
     padding-left: 40px;
     box-shadow: 0 6px 34px -6px #e0e0e0a6;
+    border-radius: 7px;
 }
 
 body .chatHeader > .BackBtn {
@@ -70,13 +71,14 @@ body .chatSend {
 
 body .chatSend > .errorTxt {
     position: absolute;
-    top: -27px;
+    top: -30px;
     left: 0;
     right: 0;
     background-color: #fb5c5c;
     font-size: 12px;
     padding: 7px;
     color: #fff;
+    width: calc(100% - 75px);
     text-align: center;
 }
 
@@ -89,6 +91,7 @@ body .chatSend > .sendText {
     color: #6f6f6f;
     display: block;
     width: calc(100% - 75px);
+    border-radius: 7px;
 }
 
 body .chatSend > .sendText::-webkit-input-placeholder {
@@ -120,12 +123,15 @@ body .chatSend > #send-message {
     font-size: 20px;
     color: #3699f6;
     text-align: center;
+    border-radius: 7px;
+    cursor: pointer;
 }
 
 body .chatContent {
     height: 100%;
     padding: 20px;
     max-height: 450px;
+    min-height: 300px;
     overflow-y: auto;
 }
 
