@@ -8,5 +8,10 @@
  - [x] Hesap makinesi için alternatif sorular oluşturulacak.
  - [x] Yeni tasarıma geçilecek. (Bugün)
  - [x] Sorularda ders.txt'den 529. satırdan devam edilecek.
- - [ ] Pazar günü saat 15.00 yayınlanacak.
+ - [x] Pazar günü saat 15.00 yayınlanacak.
  - [ ] Hesap makinesinde + ve * hata vermesi düzeltilecek.
+ - [ ] Soru araştırılması yapılacak.
+ - [ ] Soru sorma şekli hakkında geliştirme yapılacak.
+ - [ ] Yönlendirmeler(Bilinmeyen sorular için)
+ - [ ] Yönlendirmeler(Konular ile ilgili)
+ - [ ] Google Translate, Bloomberg, Hava durumu vb.
