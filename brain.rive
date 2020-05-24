@@ -17,12 +17,6 @@
 + # ile # topla
 - <star1> + <star2> = <call>toplama <star1> <star2></call>
 
-+ # + #
-- <star1> + <star2> = <call>toplama <star1> <star2></call>
-
-+ # artı #
-- <star1> + <star2> = <call>toplama <star1> <star2></call>
-
 > object carp javascript
     var a = args[0];
     var b = args[1];
@@ -32,15 +26,6 @@
 + # ile # çarp
 - <star1> * <star2> = <call>carp <star1> <star2></call>
 
-+ # x #
-- <star1> * <star2> = <call>carp <star1> <star2></call>
-
-+ # * #
-- <star1> * <star2> = <call>carp <star1> <star2></call>
-
-+ # kere #
-- <star1> * <star2> = <call>carp <star1> <star2></call>
-
 > object cikarma javascript
     var a = args[0];
     var b = args[1];
@@ -48,13 +33,7 @@
 < object
 
 + # ile # çıkar
-- <star1> - <star2> = <call>cikarma <star1> <star2></call>
-
-+ # - #
-- <star1> - <star2> = <call>cikarma <star1> <star2></call>
-
-+ # eksi #
-- <star1> - <star2> = <call>cikarma <star1> <star2></call>
+- <star1> - <star2> = <call>cıkarma <star1> <star2></call>
 
 > object bolme javascript
     var a = args[0];
@@ -68,12 +47,6 @@
 < object
 
 + # ile # böl
-- <star1> / <star2> = <call>bolme <star1> <star2></call>
-
-+ # / #
-- <star1> / <star2> = <call>bolme <star1> <star2></call>
-
-+ # bölü #
 - <star1> / <star2> = <call>bolme <star1> <star2></call>
 
 +yardım

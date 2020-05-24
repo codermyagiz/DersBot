@@ -9,3 +9,4 @@
  - [x] Yeni tasarıma geçilecek. (Bugün)
  - [x] Sorularda ders.txt'den 529. satırdan devam edilecek.
  - [ ] Pazar günü saat 15.00 yayınlanacak.
+ - [ ] Hesap makinesinde + ve * hata vermesi düzeltilecek.
