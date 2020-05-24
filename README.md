@@ -14,4 +14,5 @@
  - [ ] Soru sorma şekli hakkında geliştirme yapılacak.
  - [ ] Yönlendirmeler(Bilinmeyen sorular için)
  - [ ] Yönlendirmeler(Konular ile ilgili)
- - [ ] Google Translate, Bloomberg, Hava durumu vb.
+ - [x] Google Translate, Bloomberg, Hava durumu vb.(Bazı sorunlar var, kodda yorum olarak belirtildi.)
+ - [x] Instagram'da ilk 5 soru-cevap olarak yazıldı.

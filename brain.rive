@@ -574,16 +574,59 @@
 + [*](grup)[*]
 -Dikey sütunlara grup denir. 18 grup vardır.
 
-+ [*](sentrozom)[*]
++ [*] (sentrozom) [*]
 -Protein, DNA ve RNA'dan yapılmış olan sentrozom, hücrenin bölünmesine yardımcı olmakla sorumlu organel adlandırılmaktadır.
-
-+ * [*](nedir)[*]
--Wikipedia'da arandı: <a href="https://tr.wikipedia.org/wiki/<star1>">Gitmek için buraya tıkla.</a>
 
 // MGM aramasında türkçe karakter desteklenmiyor, düzeltilecek.
 + * [*](hava durumu|hava nasıl|hava|yağış|kar|yağmur|dolu|hava nasıl?|hava)[*]
 -MGM'de arandı: <a href="https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il=<star1>">Gitmek için buraya tıkla.</a>
 -Google'da arandı: <a href="http://google.com/search?q=<star>">Gitmek için buraya tıkla.</a>
 
++ [*](üçgen açılar|üçgen iç|üçgenin iç açılar|üçgen iç açılar|üçgenin iç açıları|üçgen iç açılarının)[*]
+-Üçgenin iç açıları toplamı 180 derecedir.
+
++ [*](mitokondri)[*]
+-Hücrede enerji üretiminden sorumlu olan ve oksijenli solunumun gerçekleştiği organel.
+
++ [*](hücre)[*]
+-Canlının canlılık özellikleri taşıyan, yapı ve görev bakımından en küçük parçası.
+
++ [*](periyodik tablo)[*]
+-Periyodik tablo, kimyasal elementlerin sınıflandırılması için geliştirilmiş tablodur. <br></br>
+^7 periyot, 18 grup bulunur.
+
++ [*](hayatın anlamı|hayatin anlami)[*]
+-42
+
++ [*](döviz|dolar|euro|sterlin|avro|ne kadar|usd)[*]
+-Son döviz kurları: <a href="https://www.bloomberght.com/doviz">Gitmek için buraya tıkla.</a>
+
+
+//Çeviri'de otomatik algıla linki eklenecek!
 // + * [*](ne demek|türkçesi|turkcesi|türkçe'ye çevir|turkceye cevir|google çeviri|çevir|translate|google translate)[*]
-// -Translate arandı: <a href="">Gitmek için buraya tıkla.</a> //Dolduralacak
+// -Translate arandı: <a href="">Gitmek için buraya tıkla.</a>
+
+// Bir problem var! Bazı kelimelerde nedir diye sorunca direkt bu sonuç çıkıyor(yer değiştirilerek de denendi.). 
+// + * (nedir|nedir?) [*]
+// -Wikipedia'da arandı: <a href="https://tr.wikipedia.org/wiki/<star1>">Gitmek için buraya tıkla.</a>
+
+
+
+//Story'de ilk 5
+
++ [*]betül araz[*]
+-harry potter hayranı, ayrıca bir journal hesabı var, öğrenci <a href="https://instagram.com/betulaaraz">Instagram Adresi.</a>
+
++ [*]tuba şule kıyran[*]
+-Resim çizmeye meraklı, Öğrenci <a href="https://instagram.com/ataknsyl">Instagram Adresi.</a>
+
++ [*]furkan acar[*]
+-otomotiv mühendisi <a href="https://instagram.com/furkanacrrr">Instagram Adresi.</a>
+
++ [*]yusuf kaptan aksan[*]
+-Oyunsever, Öğrenci <a href="https://instagram.com/yusuf_kptn1">Instagram Adresi.</a>
+
++ [*]atakan soylu[*]
+-Amatör Futbolcu, Öğrenci <a href="https://instagram.com/ataknsyl">Instagram Adresi.</a>
+
+// End
