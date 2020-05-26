@@ -7,6 +7,8 @@
 + *
 - Bu konu hakkında bilgi sahibi değilim. Yazılımcı ile iletişime geçin: yagiz.ysk@hotmail.com
 
+// Start Obejct macros
+
 > object toplama javascript
     // Demonstrats that JS objects can return numbers.
     var a = args[0];
@@ -14,26 +16,17 @@
     return parseInt(a) + parseInt(b);
 < object
 
-+ # ile # topla
-- <star1> + <star2> = <call>toplama <star1> <star2></call>
-
 > object carp javascript
     var a = args[0];
     var b = args[1];
     return parseInt(a) * parseInt(b);
 < object
 
-+ # ile # çarp
-- <star1> * <star2> = <call>carp <star1> <star2></call>
-
 > object cikarma javascript
     var a = args[0];
     var b = args[1];
     return parseInt(a) - parseInt(b);
 < object
-
-+ # ile # çıkar
-- <star1> - <star2> = <call>cıkarma <star1> <star2></call>
 
 > object bolme javascript
     var a = args[0];
@@ -46,14 +39,109 @@
     return parseInt(a) / parseInt(b);
 < object
 
+> object sin javascript
+    var a = args[0];
+    var c = Math.sin(a);
+
+    function numberToFraction(x) {
+        var tolerance = 1.0E-6;
+        var h1=1; var h2=0;
+        var k1=0; var k2=1;
+        var b = x;
+        do {
+            var a = Math.floor(b);
+            var aux = h1; h1 = a*h1+h2; h2 = aux;
+            aux = k1; k1 = a*k1+k2; k2 = aux;
+            b = 1/(b-a);
+        } while (Math.abs(x-h1/k1) > x*tolerance);
+    
+        return h1+"/"+k1;
+    }
+
+    return numberToFraction(c);
+< object
+
+> object cos javascript
+    var a = args[0];
+    var c = Math.cos(a);
+
+    function numberToFraction(x) {
+        var tolerance = 1.0E-6;
+        var h1=1; var h2=0;
+        var k1=0; var k2=1;
+        var b = x;
+        do {
+            var a = Math.floor(b);
+            var aux = h1; h1 = a*h1+h2; h2 = aux;
+            aux = k1; k1 = a*k1+k2; k2 = aux;
+            b = 1/(b-a);
+        } while (Math.abs(x-h1/k1) > x*tolerance);
+    
+        return h1+"/"+k1;
+    }
+
+    return numberToFraction(c);
+< object
+
+> object tan javascript
+    var a = args[0];
+    var c = Math.tan(a);
+
+    function numberToFraction(x) {
+        var tolerance = 1.0E-6;
+        var h1=1; var h2=0;
+        var k1=0; var k2=1;
+        var b = x;
+        do {
+            var a = Math.floor(b);
+            var aux = h1; h1 = a*h1+h2; h2 = aux;
+            aux = k1; k1 = a*k1+k2; k2 = aux;
+            b = 1/(b-a);
+        } while (Math.abs(x-h1/k1) > x*tolerance);
+    
+        return h1+"/"+k1;
+    }
+
+    return numberToFraction(c);
+< object
+
+// End Object Macros
+
++ # ile # çıkar
+- <star1> - <star2> = <call>cıkarma <star1> <star2></call>
+
++ # ile # çarp
+- <star1> * <star2> = <call>carp <star1> <star2></call>
+
++ # ile # topla
+- <star1> + <star2> = <call>toplama <star1> <star2></call>
+
 + # ile # böl
 - <star1> / <star2> = <call>bolme <star1> <star2></call>
+
++ # [*] (tanjant|tanjantı|tanjant kaçtır|tan|tan kaç|tan kaçtır|tanjanti) [*]
+-Tanjant: <call>tan <star1></call>
+
++ # [*] (cosinus|kosinüs|kos kaçtır|cos|cos kaç|cos kaçtır) [*]
+-Cos: <call>cos <star1></call>
+
++ # [*] (sinüs|sinüsü|sinüs kaçtır|sin|sin kaç|sin kaçtır) [*]
+-Sinüs: <call>sin <star1></call>
+
++ [*] (tanjant|tanjantı|tanjant kaçtır|tan|tan kaç|tan kaçtır|tanjanti) [*] #
+-Tanjant: <call>tan <star2></call>
+
++ [*] (cosinus|kosinüs|kos kaçtır|cos|cos kaç|cos kaçtır) [*] #
+-Cos: <call>cos <star2></call>
+
++ [*] (sinüs|sinüsü|sinüs kaçtır|sin|sin kaç|sin kaçtır) [*] #
+-Sinüs: <call>sin <star2></call>
 
 +yardım
 - <a href="yagizyasak.me">Bu linke tıklayarak ayrıntılı bilgiye ulaşabilirsiniz.</a>
 
 //Alternatives and Optionals example
-+ [*] (merhaba|selam|selamlar|hi|naber|hello) [*]
++ [*] (merhaba|selam|selamlar|hi|naber) [*]
 - Merhaba :).
 
 //Alternatives and Optionals
@@ -81,9 +169,6 @@
 ^Hücre sitoplazmasının dağılmasını önler. Hücre sitoplazmasının dağılmasını önler. <br></br>
 ^Hücre sitoplazmasının dağılmasını önler.Seçici geçirgendir.Kendisine gerekli olan maddelerin (besin ve oksijen) girişine, atık maddelerin (karbondioksit vb.) atılmasına izin verir. <br></br>
 ^Hem hayvan hem de bitki hücresinde bulunur.
-
-+ ömer
--osman
 
 + [*] (hücre duvarı|hücre duvarı'nın görevi|hücre duvarı görevi|hücre duvarının|hücre duvarı'nın) [*]
 -Hücre duvarı yalnız bitki hücrelerinde bulunur; hayvan hücrelerinde bulunmaz. <br></br>
@@ -580,9 +665,9 @@
 // MGM aramasında türkçe karakter desteklenmiyor, düzeltilecek.
 + * [*](hava durumu|hava nasıl|hava|yağış|kar|yağmur|dolu|hava nasıl?|hava)[*]
 -MGM'de arandı: <a href="https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il=<star1>">Gitmek için buraya tıkla.</a>
--Google'da arandı: <a href="http://google.com/search?q=<star>">Gitmek için buraya tıkla.</a>
+-Google'da arandı: <a href="http://google.com/search?q=<star>+hava+durumu">Gitmek için buraya tıkla.</a>
 
-+ [*](üçgen açılar|üçgen iç|üçgenin iç açılar|üçgen iç açılar|üçgenin iç açıları|üçgen iç açılarının)[*]
++ [*](üçgen açılar|üçgen iç|üçgenin iç açılar|üçgen iç açılar|üçgenin iç açıları|üçgen iç açılarının|üçgende açılar|üçgende açı)[*]
 -Üçgenin iç açıları toplamı 180 derecedir.
 
 + [*](mitokondri)[*]
@@ -601,10 +686,8 @@
 + [*](döviz|dolar|euro|sterlin|avro|ne kadar|usd)[*]
 -Son döviz kurları: <a href="https://www.bloomberght.com/doviz">Gitmek için buraya tıkla.</a>
 
-
-//Çeviri'de otomatik algıla linki eklenecek!
-// + * [*](ne demek|türkçesi|turkcesi|türkçe'ye çevir|turkceye cevir|google çeviri|çevir|translate|google translate)[*]
-// -Translate arandı: <a href="">Gitmek için buraya tıkla.</a>
++ * [*](ne demek|türkçesi|turkcesi|türkçe'ye çevir|turkceye cevir|google çeviri|çevir|translate|google translate|türkçesi|türkçe|tureng)[*]
+-Tureng'de arandı: <a href="https://tureng.com/tr/turkce-ingilizce/<star1>">Gitmek için buraya tıkla.</a>
 
 // Bir problem var! Bazı kelimelerde nedir diye sorunca direkt bu sonuç çıkıyor(yer değiştirilerek de denendi.). 
 // + * (nedir|nedir?) [*]
@@ -630,3 +713,4 @@
 -Amatör Futbolcu, Öğrenci <a href="https://instagram.com/ataknsyl">Instagram Adresi.</a>
 
 // End
+
