@@ -21,7 +21,7 @@ bot.loadFile("./brain.rive").then(function() {
 
             $('<div class="chat-column company">\
             <div class="item">\
-              <div class="chat-icon"></div>\
+              <div class="chat-icon">SZ</div>\
             </div>\
             <div class="item">\
               <div class="chat-message">' + messageTXT + '</div>\
