@@ -42,67 +42,19 @@
 > object sin javascript
     var a = args[0];
     var c = Math.sin(a);
-
-    function numberToFraction(x) {
-        var tolerance = 1.0E-6;
-        var h1=1; var h2=0;
-        var k1=0; var k2=1;
-        var b = x;
-        do {
-            var a = Math.floor(b);
-            var aux = h1; h1 = a*h1+h2; h2 = aux;
-            aux = k1; k1 = a*k1+k2; k2 = aux;
-            b = 1/(b-a);
-        } while (Math.abs(x-h1/k1) > x*tolerance);
-    
-        return h1+"/"+k1;
-    }
-
-    return numberToFraction(c);
+    return c;
 < object
 
 > object cos javascript
     var a = args[0];
     var c = Math.cos(a);
-
-    function numberToFraction(x) {
-        var tolerance = 1.0E-6;
-        var h1=1; var h2=0;
-        var k1=0; var k2=1;
-        var b = x;
-        do {
-            var a = Math.floor(b);
-            var aux = h1; h1 = a*h1+h2; h2 = aux;
-            aux = k1; k1 = a*k1+k2; k2 = aux;
-            b = 1/(b-a);
-        } while (Math.abs(x-h1/k1) > x*tolerance);
-    
-        return h1+"/"+k1;
-    }
-
-    return numberToFraction(c);
+    return c;
 < object
 
 > object tan javascript
     var a = args[0];
     var c = Math.tan(a);
-
-    function numberToFraction(x) {
-        var tolerance = 1.0E-6;
-        var h1=1; var h2=0;
-        var k1=0; var k2=1;
-        var b = x;
-        do {
-            var a = Math.floor(b);
-            var aux = h1; h1 = a*h1+h2; h2 = aux;
-            aux = k1; k1 = a*k1+k2; k2 = aux;
-            b = 1/(b-a);
-        } while (Math.abs(x-h1/k1) > x*tolerance);
-    
-        return h1+"/"+k1;
-    }
-
-    return numberToFraction(c);
+    return c;
 < object
 
 // End Object Macros
