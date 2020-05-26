@@ -1,3 +1,6 @@
+let _RegExp = RegExp;
+RegExp = function() {return _RegExp(...Array(...arguments).map(x => (typeof x==="string") ? x.replace("(.+?)", "(.+)") : x))}; // @ M. Kılıç
+
 let username = "local-user";
 
 function realTime(){
