@@ -56,7 +56,7 @@
 
             <!-- BEGIN : chatSend -->
             <div class="chatSend">
-                <input type="text" id="sa" onkeyup="myFunction();" class="sendText" placeholder="Bir Mesaj Gönder...">
+                <input type="text" id="text_input" onkeyup="myFunction();" class="sendText" placeholder="Bir Mesaj Gönder...">
                 <div id="send-message" onkeyup="myFunction();"><i class="fa fa-search text-black" aria-hidden="true"></i></div>
             </div>
             <!-- END : chatSend -->
@@ -69,7 +69,7 @@
 
     <script>
       function myFunction() {
-        var x = document.getElementById("sa");
+        var x = document.getElementById("text_input");
         x.value = x.value.replace("*", "x");
         x.value = x.value.replace("/", "bol");
         x.value = x.value.replace("+", "topla")
