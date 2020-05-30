@@ -56,18 +56,25 @@
 
             <!-- BEGIN : chatSend -->
             <div class="chatSend">
-                <input type="text" class="sendText" placeholder="Bir Mesaj Gönder...">
-                <div id="send-message"><i class="fa fa-search text-black" aria-hidden="true"></i></div>
+                <input type="text" id="sa" onkeyup="myFunction();" class="sendText" placeholder="Bir Mesaj Gönder...">
+                <div id="send-message" onkeyup="myFunction();"><i class="fa fa-search text-black" aria-hidden="true"></i></div>
             </div>
             <!-- END : chatSend -->
         </div>
     </main>
 
-
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js'></script>
     <script src="https://unpkg.com/rivescript@latest/dist/rivescript.min.js"></script>
     <script type="text/javascript" src="content/js/DersBot.js"> </script>
 
-
+    <script>
+      function myFunction() {
+        var x = document.getElementById("sa");
+        x.value = x.value.replace("*", "x");
+        x.value = x.value.replace("/", "bol");
+        x.value = x.value.replace("+", "topla")
+        x.value = x.value.replace("-", "cikar")
+      }
+    </script>
 
 </body></html>

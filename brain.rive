@@ -22,7 +22,7 @@
     return parseInt(a) * parseInt(b);
 < object
 
-> object cikarma javascript
+> object n javascript //Bir problemden dolayı cikarma olan isim n olarak değiştirildi.
     var a = args[0];
     var b = args[1];
     return parseInt(a) - parseInt(b);
@@ -58,10 +58,6 @@
 < object
 
 // End Object Macros
-
-+ # ile # çıkar
-- <star1> - <star2> = <call>cıkarma <star1> <star2></call>
-
 + # ile # çarp
 - <star1> * <star2> = <call>carp <star1> <star2></call>
 
@@ -70,6 +66,18 @@
 
 + # ile # böl
 - <star1> / <star2> = <call>bolme <star1> <star2></call>
+
++ # x #
+- <star1> * <star2> = <call>carp <star1> <star2></call>
+
++ # bol #
+- <star1> / <star2> = <call>bolme <star1> <star2></call>
+
++ # topla #
+- <star1> + <star2> = <call>toplama <star1> <star2></call>
+
++ # cikar #
+- <star1> - <star2> = <call>n <star1> <star2></call> //Bir problemden dolayı cikarma olan isim n olarak değiştirildi.
 
 + # [*] (tanjant|tanjantı|tanjant kaçtır|tan|tan kaç|tan kaçtır|tanjanti) [*]
 -Tanjant: <call>tan <star1></call>
@@ -93,7 +101,7 @@
 - <a href="yagizyasak.me">Bu linke tıklayarak ayrıntılı bilgiye ulaşabilirsiniz.</a>
 
 //Alternatives and Optionals example
-+ [*] (merhaba|selam|selamlar|hi|naber) [*]
++ [*] (merhaba|selam|selamlar|hi|sa) [*]
 - Merhaba :).
 
 //Alternatives and Optionals
@@ -614,7 +622,7 @@
 + [*] (sentrozom) [*]
 -Protein, DNA ve RNA'dan yapılmış olan sentrozom, hücrenin bölünmesine yardımcı olmakla sorumlu organel adlandırılmaktadır.
 
-// MGM aramasında türkçe karakter desteklenmiyor, düzeltilecek.
+// Buradaki bir bug @musabkilic tarafından düzeltidi.
 + * [*](hava durumu|hava nasıl|hava|yağış|kar|yağmur|dolu|hava nasıl?|hava)[*]
 -MGM'de arandı: <a href="https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il=<star1>">Gitmek için buraya tıkla.</a>
 -Google'da arandı: <a href="http://google.com/search?q=<star>+hava+durumu">Gitmek için buraya tıkla.</a>
@@ -641,11 +649,13 @@
 + * [*](ne demek|türkçesi|turkcesi|türkçe'ye çevir|turkceye cevir|google çeviri|çevir|translate|google translate|türkçesi|türkçe|tureng)[*]
 -Tureng'de arandı: <a href="https://tureng.com/tr/turkce-ingilizce/<star1>">Gitmek için buraya tıkla.</a>
 
-// Bir problem var! Bazı kelimelerde nedir diye sorunca direkt bu sonuç çıkıyor(yer değiştirilerek de denendi.). 
+// Bir problem var! Bazı kelimelerde nedir diye sorunca direkt bu sonuç çıkıyor(yer değiştirilerek de denendi.).
 // + * (nedir|nedir?) [*]
 // -Wikipedia'da arandı: <a href="https://tr.wikipedia.org/wiki/<star1>">Gitmek için buraya tıkla.</a>
 
-
+// En kısa sürede nereye yönlendireceği yazılacak.
+// + * [*](ne demek|türkçesi|turkcesi|türkçe'ye çevir|turkceye cevir|google çeviri|çevir|translate|google translate|türkçesi|türkçe|tureng)[*]
+// -TDK'da arandı: <a href="">Gitmek için buraya tıkla.</a>
 
 //Story'de ilk 5
 
@@ -661,8 +671,7 @@
 + [*]yusuf kaptan aksan[*]
 -Oyunsever, Öğrenci <a href="https://instagram.com/yusuf_kptn1">Instagram Adresi.</a>
 
-+ [*]atakan soylu[*]
--Amatör Futbolcu, Öğrenci <a href="https://instagram.com/ataknsyl">Instagram Adresi.</a>
-
 // End
 
++ [*](sen kimsin|kimsin?|kimsin)[*]
+-Ben DersBot, size yardımcı olmak için burdayım.
