@@ -578,11 +578,6 @@
 + [*] (elektrik gerilimi) [*]
 - Gerilim ya da voltaj elektronları maruz kaldıkları elektrostatik alan kuvvetine karşı hareket ettiren kuvvettir
 
-+ [*] (direnç nedir )[*]
--1 - Direnç R sembolü ile gösterilir. <br></br>
-^2 - Birimi ohm (Ω)'dur. <br></br>
-^3 - Direnci ölçmek için direnç ölçer (Ohmmetre) kullanılır.
-
 + [*] (dna nedir) [*]
 -DNA hücreyi yöneten dev moleküldür. <br></br>n
 ^DeoksiriboNükleikAsit kısaltması olarak DNA kullanılır. <br></br>
@@ -649,7 +644,6 @@
 + * [*](ne demek|türkçesi|turkcesi|türkçe'ye çevir|turkceye cevir|google çeviri|çevir|translate|google translate|türkçesi|türkçe|tureng)[*]
 -Tureng'de arandı: <a href="https://tureng.com/tr/turkce-ingilizce/<star1>">Gitmek için buraya tıkla.</a>
 
-// Bir problem var! Bazı kelimelerde nedir diye sorunca direkt bu sonuç çıkıyor(yer değiştirilerek de denendi.).
 + * (nedir|nedir?) [*]
 -Wikipedia'da arandı: <a href="https://tr.wikipedia.org/wiki/<star1>">Gitmek için buraya tıkla.</a>
 
@@ -673,32 +667,32 @@
 
 // End
 
-+ [*](sen kimsin|kimsin?|kimsin)[*]
++ [*] (sen kimsin|kimsin?|kimsin) [*]
 -Ben DersBot, size yardımcı olmak için burdayım.
 
-+ [*](klimatoloji|klimatoloji?)[*]
++ [*] (klimatoloji|klimatoloji?) [*]
 -Kısaca iklim bilimi.
 
-+ [*](meteoroloji|meteoroloji?)[*]
++ [*] (meteoroloji|meteoroloji?) [*]
 -Kısa süreli hava bilimi
 
-+ [*](jeoloji|jeoloji?)[*]
++ [*] (jeoloji|jeoloji?) [*]
 -Yer bilimi
 
-+ [*](jeomorfoloji|jeomorfoloji?)[*]
++ [*] (jeomorfoloji|jeomorfoloji?) [*]
 -Yer şekli Bilimi.
 
 + [*](jeofizik|jeofizik?)[*]
 -Yer Kabuğunda meydana gelen olayları inceleyen bilim dalı.
 
-+ [*](litoloji|litoloji?)[*]
++ [*] (litoloji|litoloji?) [*]
 -Taş bilimi.
 
-+ [*](pedoloji|pedoloji?)[*]
++ [*] (pedoloji|pedoloji?) [*]
 -Toprak bilimi.
 
-+ [*](kartografya|kartografya?)[*]
++ [*] (kartografya|kartografya?) [*]
 -Harita bilimi.
 
-+ [*](hidroloji|hidroloji?)[*]
++ [*] (hidroloji|hidroloji?) [*]
 -Su bilimi.
