@@ -8,9 +8,43 @@
 - Bu konu hakkında bilgi sahibi değilim. Yazılımcı ile iletişime geçin: yagiz.ysk@hotmail.com
 
 // Start Obejct macros
+> object ekok javascript //code: https://www.w3resource.com/javascript-exercises/javascript-math-exercise-10.php
+    var a = args[0];
+    var b = args[1];
+    function lcm_two_numbers(x, y) {
+      return (!x || !y) ? 0 : Math.abs((x * y) / gcd_two_numbers(x, y));
+    }
+
+    function gcd_two_numbers(x, y) {
+      x = Math.abs(x);
+      y = Math.abs(y);
+      while(y) {
+        var t = y;
+        y = x % y;
+        x = t;
+      }
+      return x;
+    }
+    return lcm_two_numbers(a,b);
+< object
+
+> object ebob javascript // code: https://www.w3resource.com/javascript-exercises/javascript-math-exercise-8.php
+    var a = args[0];
+    var b = args[1];
+    function gcd_two_numbers(x, y) {
+      x = Math.abs(x);
+      y = Math.abs(y);
+      while(y) {
+        var t = y;
+        y = x % y;
+        x = t;
+      }
+      return x;
+    }
+    return gcd_two_numbers(a, b);
+< object
 
 > object toplama javascript
-    // Demonstrats that JS objects can return numbers.
     var a = args[0];
     var b = args[1];
     return parseInt(a) + parseInt(b);
@@ -58,6 +92,13 @@
 < object
 
 // End Object Macros
+
++ # ile # ekok
+- Ekok: <call>ekok <star1> <star2></call>
+
++ # ile # ebob
+- Ebob: <call>ebob <star1> <star2></call>
+
 + # ile # çarp
 - <star1> * <star2> = <call>carp <star1> <star2></call>
 
@@ -619,8 +660,8 @@
 
 // Buradaki bir bug @musabkilic tarafından düzeltidi.
 + * [*](hava durumu|hava nasıl|hava|yağış|kar|yağmur|dolu|hava nasıl?|hava)[*]
--MGM'de arandı: <a href="https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il=<star1>">Gitmek için buraya tıkla.</a>
--Google'da arandı: <a href="http://google.com/search?q=<star>+hava+durumu">Gitmek için buraya tıkla.</a>
+-MGM'de arandı: <a href="https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il=<star1>" target="_blank">Gitmek için buraya tıkla.</a>
+-Google'da arandı: <a href="http://google.com/search?q=<star>+hava+durumu" target="_blank">Gitmek için buraya tıkla.</a>
 
 + [*](üçgen açılar|üçgen iç|üçgenin iç açılar|üçgen iç açılar|üçgenin iç açıları|üçgen iç açılarının|üçgende açılar|üçgende açı)[*]
 -Üçgenin iç açıları toplamı 180 derecedir.
@@ -638,14 +679,14 @@
 + [*](hayatın anlamı|hayatin anlami)[*]
 -42
 
-+ [*](döviz|dolar|euro|sterlin|avro|ne kadar|usd)[*]
--Son döviz kurları: <a href="https://www.bloomberght.com/doviz">Gitmek için buraya tıkla.</a>
++ [*] (döviz|dolar|euro|sterlin|avro|ne kadar|usd) [*]
+-Son döviz kurları: <a href="https://www.bloomberght.com/doviz" target="_blank">Gitmek için buraya tıkla.</a>
 
 + * [*](ne demek|türkçesi|turkcesi|türkçe'ye çevir|turkceye cevir|google çeviri|çevir|translate|google translate|türkçesi|türkçe|tureng)[*]
--Tureng'de arandı: <a href="https://tureng.com/tr/turkce-ingilizce/<star1>">Gitmek için buraya tıkla.</a>
+-Tureng'de arandı: <a href="https://tureng.com/tr/turkce-ingilizce/<star1>" target="_blank">Gitmek için buraya tıkla.</a>
 
 + * (nedir|nedir?) [*]
--Wikipedia'da arandı: <a href="https://tr.wikipedia.org/wiki/<star1>">Gitmek için buraya tıkla.</a>
+-Wikipedia'da arandı: <a href="https://tr.wikipedia.org/wiki/<star1>" target="_blank">Gitmek için buraya tıkla.</a>
 
 // En kısa sürede nereye yönlendireceği yazılacak.
 // + * [*](ne demek|türkçesi|turkcesi|türkçe'ye çevir|turkceye cevir|google çeviri|çevir|translate|google translate|türkçesi|türkçe|tureng)[*]
@@ -654,16 +695,16 @@
 //Story'de ilk 5
 
 + [*]betül araz[*]
--harry potter hayranı, ayrıca bir journal hesabı var, öğrenci <a href="https://instagram.com/betulaaraz">Instagram Adresi.</a>
+-harry potter hayranı, ayrıca bir journal hesabı var, öğrenci <a href="https://instagram.com/betulaaraz" target="_blank">Instagram Adresi.</a>
 
 + [*]tuba şule kıyran[*]
--Resim çizmeye meraklı, Öğrenci <a href="https://instagram.com/ataknsyl">Instagram Adresi.</a>
+-Resim çizmeye meraklı, Öğrenci <a href="https://instagram.com/ataknsyl" target="_blank">Instagram Adresi.</a>
 
 + [*]furkan acar[*]
--otomotiv mühendisi <a href="https://instagram.com/furkanacrrr">Instagram Adresi.</a>
+-otomotiv mühendisi <a href="https://instagram.com/furkanacrrr" target="_blank">Instagram Adresi.</a>
 
 + [*]yusuf kaptan aksan[*]
--Oyunsever, Öğrenci <a href="https://instagram.com/yusuf_kptn1">Instagram Adresi.</a>
+-Oyunsever, Öğrenci <a href="https://instagram.com/yusuf_kptn1" target="_blank">Instagram Adresi.</a>
 
 // End
 
