@@ -5,9 +5,9 @@
 ! version = 2.0
 
 + *
-- Bu konu hakkında bilgi sahibi değilim. Yazılımcı ile iletişime geçin: yagiz.ysk@hotmail.com
+- Bu konu hakkında bilgi sahibi değilim. Form'u doldurarak bize yardımcı olabilirsiniz: <a href="https://dersbottest.netlify.app/form.html" target="_blank">Form.</a>
 
-// Start Obejct macros
+// Start Object  Macros
 > object ekok javascript //code: https://www.w3resource.com/javascript-exercises/javascript-math-exercise-10.php
     var a = args[0];
     var b = args[1];
@@ -93,6 +93,7 @@
 
 // End Object Macros
 
+// Calc.
 + # ile # ekok
 - Ekok: <call>ekok <star1> <star2></call>
 
@@ -111,13 +112,25 @@
 + # x #
 - <star1> * <star2> = <call>carp <star1> <star2></call>
 
++ #x#
+- <star1> * <star2> = <call>carp <star1> <star2></call>
+
 + # bol #
+- <star1> / <star2> = <call>bolme <star1> <star2></call>
+
++ #bol#
 - <star1> / <star2> = <call>bolme <star1> <star2></call>
 
 + # topla #
 - <star1> + <star2> = <call>toplama <star1> <star2></call>
 
++ #topla#
+- <star1> + <star2> = <call>toplama <star1> <star2></call>
+
 + # cikar #
+- <star1> - <star2> = <call>n <star1> <star2></call> //Bir problemden dolayı cikarma olan isim n olarak değiştirildi.
+
++ #cikar#
 - <star1> - <star2> = <call>n <star1> <star2></call> //Bir problemden dolayı cikarma olan isim n olarak değiştirildi.
 
 + # [*] (tanjant|tanjantı|tanjant kaçtır|tan|tan kaç|tan kaçtır|tanjanti) [*]
@@ -137,6 +150,8 @@
 
 + [*] (sinüs|sinüsü|sinüs kaçtır|sin|sin kaç|sin kaçtır) [*] #
 -Sinüs: <call>sin <star2></call>
+
+// Calc.
 
 +yardım
 - <a href="yagizyasak.me">Bu linke tıklayarak ayrıntılı bilgiye ulaşabilirsiniz.</a>
@@ -692,7 +707,7 @@
 // + * [*](ne demek|türkçesi|turkcesi|türkçe'ye çevir|turkceye cevir|google çeviri|çevir|translate|google translate|türkçesi|türkçe|tureng)[*]
 // -TDK'da arandı: <a href="">Gitmek için buraya tıkla.</a>
 
-//Story'de ilk 5
+//Story'de ilk 4
 
 + [*]betül araz[*]
 -harry potter hayranı, ayrıca bir journal hesabı var, öğrenci <a href="https://instagram.com/betulaaraz" target="_blank">Instagram Adresi.</a>
