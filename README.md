@@ -1,5 +1,5 @@
 <h1 align="center">
-	<a href="https://github.com/codermyagiz/dersbot-netlify">DersBot</a>
+	<a href="https://github.com/codermyagiz/dersbot">DersBot</a>
 </h1>
 
 <p align="center">
@@ -71,3 +71,7 @@ Kendi WebSitem üzerinden DersBot'u kullanabilirsiniz.
  - M. Yağız Yasak [Github](https://github.com/codermyagiz)
  - Musab Kılıç [Github](https://github.com/musabkilic)
  - Enes Gezici [Github](https://github.com/enesgezici)
+
+## Not:
+Readme.md dosyasını yazarken Musab Kılıç'ın [Microbike](https://github.com/musabkilic/MicroBike) projesinden yararlandım.
+
