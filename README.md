@@ -47,18 +47,22 @@ Kendi WebSitem üzerinden DersBot'u kullanabilirsiniz.
 
 - Trigonometrik oranları da hesaplayabilirsiniz. Örnek:
 	> Kullanıcı: sinüs 30
+	
 	> Sinüs: -0.9880316240928618
 
 - Döviz Kurları Hakkında Bilgi Edinebilirsiniz. Örnek:
 	> Kullanıcı: döviz (Alternatif sorular: Euro, Dolar, Sterlin)
+
 	> DersBot: Son döviz kurları:  [Gitmek için buraya tıkla.](https://www.bloomberght.com/doviz)
 
 - Çeviri İşlemlerinizi Yapabilirsiniz. Örnek:
 	 >Kullanıcı: Hello ne demek?
+
 	 >DersBot: Tureng'de arandı:  [Gitmek için buraya tıkla.](https://tureng.com/tr/turkce-ingilizce/hello)
 
 - Hava Durumu Sorgulayabilirsiniz. Örnek:
 	>Kullanıcı: İstanbul Hava Durumu
+
 	>DersBot: MGM'de arandı:  [Gitmek için buraya tıkla.](https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il=i%CC%87stanbul)
 	
 ## Kısaca RiveScript Nedir?
