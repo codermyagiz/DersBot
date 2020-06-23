@@ -34,41 +34,33 @@ Kendi WebSitem üzerinden DersBot'u kullanabilirsiniz.
 Örnek:
 
 	 >Kullanıcı: 3+4
-
 	 >DersBot: 3 + 4 = 7
 
 	 >Kullanıcı: 3/4
-
 	 >DersBot: 3 / 4 = 0.75	 
 
 - Ebob-Ekok işlemleri de yapabilirsiniz. Örnek:
 
 	 >Kullanıcı: 3 ile 5 ebob
-
 	 >DersBot: Ebob: 1
 
 	 >Kullanıcı: 3 ile 5 ekok
-
 	 >DersBot: Ekok: 15
 
 - Trigonometrik oranları da hesaplayabilirsiniz. Örnek:
 	 >Kullanıcı: sinüs 30
-
 	 >DersBot: -0.9880316240928618
 
 - Döviz Kurları Hakkında Bilgi Edinebilirsiniz. Örnek:
 	 >Kullanıcı: döviz (Alternatif sorular: Euro, Dolar, Sterlin)
-
 	 >DersBot: Son döviz kurları:  [Gitmek için buraya tıkla.](https://www.bloomberght.com/doviz)
 
 - Çeviri İşlemlerinizi Yapabilirsiniz. Örnek:
 	 >Kullanıcı: Hello ne demek?
-
 	 >DersBot: Tureng'de arandı:  [Gitmek için buraya tıkla.](https://tureng.com/tr/turkce-ingilizce/hello)
 
 - Hava Durumu Sorgulayabilirsiniz. Örnek:
 	 >Kullanıcı: İstanbul Hava Durumu
-
 	 >DersBot: MGM'de arandı:  [Gitmek için buraya tıkla.](https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il=i%CC%87stanbul)
 	
 ## Kısaca RiveScript Nedir?
