@@ -78,7 +78,7 @@ Kendi WebSitem üzerinden DersBot'u kullanabilirsiniz.
 	 - atom nedir
 	 - mitokondri nedir
 	 - jeofizik nedir
-	 - gerilimin formülü
+	 - en hızlı gezegen
 	
 ## Kısaca RiveScript Nedir?
 - [RiveScript](https://www.rivescript.com), ChatBot'ları tasarlamak için açık kaynaklı bir script dilidir.
