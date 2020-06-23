@@ -25,30 +25,36 @@ Kendi WebSitem üzerinden DersBot'u kullanabilirsiniz.
 ## Soru Tipleri
 - Eğer "Nedir?" sorularına DersBot herhangi bir cevap bulamazsa sorulan soruya Wikipedia linki ile cevap veriyor. Örnek:
 
-	> Kullanıcı: Kağıt Nedir?
-	>DersBot: Wikipedia'da arandı:  [Gitmek için buraya tıkla.](https://tr.wikipedia.org/wiki/kağıt)
+	 > Kullanıcı: Kağıt Nedir?
+
+	 >DersBot: Wikipedia'da arandı:  [Gitmek için buraya tıkla.](https://tr.wikipedia.org/wiki/kağıt)
 
 - DersBot'a 4 işlem hesap yapabilirsiniz.  
 *İşlem Yapmak için şu şekilde sorunuz: sayı(+ - / * ) *sayı*
 Örnek:
 
-	 > Kullanıcı: 3+4
-	 > DersBot: 3 + 4 = 7
-	
-	 > Kullanıcı: 3/4
-	 > DersBot: 3 / 4 = 0.75
+	 >Kullanıcı: 3+4
+
+	 >DersBot: 3 + 4 = 7
+
+	 >Kullanıcı: 3/4
+
+	 >DersBot: 3 / 4 = 0.75	 
 
 - Ebob-Ekok işlemleri de yapabilirsiniz. Örnek:
-	 > Kullanıcı: 3 ile 5 ebob
-	 > DersBot: Ebob: 1
+
+	 >Kullanıcı: 3 ile 5 ebob
+
+	 >DersBot: Ebob: 1
 
 	 >Kullanıcı: 3 ile 5 ekok
+
 	 >DersBot: Ekok: 15
 
 - Trigonometrik oranları da hesaplayabilirsiniz. Örnek:
-	 > Kullanıcı: sinüs 30
+	 >Kullanıcı: sinüs 30
 
-	 > Sinüs: -0.9880316240928618
+	 >DersBot: -0.9880316240928618
 
 - Döviz Kurları Hakkında Bilgi Edinebilirsiniz. Örnek:
 	 >Kullanıcı: döviz (Alternatif sorular: Euro, Dolar, Sterlin)
