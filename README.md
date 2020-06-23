@@ -70,6 +70,15 @@ Kendi WebSitem üzerinden DersBot'u kullanabilirsiniz.
 	 >Kullanıcı: İstanbul Hava Durumu
 
 	 >DersBot: MGM'de arandı:  [Gitmek için buraya tıkla.](https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il=i%CC%87stanbul)
+
+- Sorabileceğiniz tüm sorular brain.rive dosyasının içinde bulunmaktadır.
+- Örnek olarak dersler ile sorabileceğiniz sorular:
+	 - ağrılık nedir
+	 - kütle nedir
+	 - atom nedir
+	 - mitokondri nedir
+	 - jeofizik nedir
+	 - gerilimin formülü
 	
 ## Kısaca RiveScript Nedir?
 - [RiveScript](https://www.rivescript.com), ChatBot'ları tasarlamak için açık kaynaklı bir script dilidir.
