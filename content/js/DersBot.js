@@ -19,6 +19,13 @@ bot.loadFile("./brain.rive").then(function() {
     $('#send-message').click(function () {
         if ($(".sendText").val()) {
           let messageTXT = $(".sendText").val();
+
+
+          messageTXT = messageTXT.replace("*", "x");
+          messageTXT = messageTXT.replace("/", "bol");
+          messageTXT = messageTXT.replace("+", "topla");
+          messageTXT = messageTXT.replace("-", "cikar");
+
           bot.reply(username, messageTXT).then(function(responseTXT) {
             console.log("The bot says: " + responseTXT);
 
@@ -44,8 +51,6 @@ bot.loadFile("./brain.rive").then(function() {
             </div>\
         </div>').hide().appendTo(".chatContent").fadeIn(300);
 
-
-
             $('.sendText').val("");
             messageTXT = "";
             //Scroll
@@ -59,6 +64,7 @@ bot.loadFile("./brain.rive").then(function() {
               $('<div class="errorTxt">Lütfen Mesaj Yazınız !</div>').hide().appendTo(".chatSend").fadeIn(100).fadeOut(2000);
           }
     });
+
     $('.sendText').keypress(function (e) {
         if (e.which == 13) {
             $('#send-message').click();
