@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-	<img src="https://yagizyasak.me/images/dersbot.png"/>
+	<img src="https://yagizyasak.netlify.app/images/dersbot.png"/>
 </p>
 
 
@@ -20,7 +20,7 @@ DersBot, dersler hakkında sorular sorabileceğiniz bir asistan.
 DersBot'u kullanmak için yalnızca bir tarayıcıya ihtiyacınız vardır.
 Kendi WebSitem üzerinden DersBot'u kullanabilirsiniz.
 
-[Buradan Kullanabilirsiniz](https://dersbot.yagizyasak.me)
+[Buradan Kullanabilirsiniz](https://dersbot.netlify.app/)
 
 ## Soru Tipleri
 - Eğer "Nedir?" sorularına DersBot herhangi bir cevap bulamazsa sorulan soruya Wikipedia linki ile cevap veriyor. Örnek:
